@@ -58,5 +58,16 @@
          </a>
 </div>
 <div class="water"></div>
+<!--เตย-->
+<div>
+    <p>นฤภร วงแก้ว</p>
+    <a href="https://www.instagram.com/_btqx_21/?__pwa=1">
+        <img src="https://scontent.futp1-2.fna.fbcdn.net/v/t1.15752-9/494827794_2072533869906354_3242810038400550695_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=h8IJm3H9EMsQ7kNvwHZqnBq&_nc_oc=AdnZ63GTKdgPul36svOAqAHUsYGIpQxtidWxhApnzvqRmnrkoNW5lp8GavtT7SBwhJ9sCvmYJqfAUun3vCPer4Zh&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.futp1-2.fna&oh=03_Q7cD2AHFzWbcJypg2staTy00cZmEqE5I6_Vo1FDrcA89tZb2IA&oe=683ADE12" alt="mo"width="250" height="450">
+    </a>
+</div>
+        <a href="https://www.instagram.com/_btqx_21/?__pwa=1">
+            <button>เปิดโปรไฟล์</button>
+        </a>
+     </div>
 </body>
 </html>
