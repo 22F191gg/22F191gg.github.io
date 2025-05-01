@@ -27,8 +27,10 @@
 <div>
 </a>
    <a href="https://www.instagram.com/maiixr__xiz/" target="_blank">
-   <button>เปิดโปรไฟล์</button>
+   <button>โปรไฟล์ig</button>
    </a>
+  <!-- <a href="https://www.facebook.com/xaychli.phr.876322">-->
+       <button>ไม่สามารถใช้ได้</button>
    <hr>
    <a href="hello" target="_blank">
 </a>
@@ -41,7 +43,10 @@
     </a>
     <div>
         <a href="https://www.instagram.com/typemoers/?__pwa=1" target="_blank">
-           <button>เปิดโปรไฟล์</button>
+           <button>โปรไฟล์ig</button>
+           <a href="https://www.facebook.com/profile.php?id=61575365674636" target="_blank">
+            <button>โปรไฟล์เฟสบุ๊ค</button>
+           </a>
         </a>
     </div>
     <div class="eo"></div>
@@ -54,19 +59,25 @@
     </div>
     <div>
          <a href="https://www.instagram.com/bookkub7/?__pwa=1" target="_blank">
-            <button>เปิดโปรไฟล์</button>
+            <button>โปรไฟล์ig</button>
+            <a href="https://www.facebook.com/bukh.ngi.859050" target="_blank">
+               <button>โปรไฟล์เฟสบุ๊ค</button>
+            </a>
          </a>
 </div>
 <div class="water"></div>
 <!--เตย-->
 <div>
-    <p>นฤภร วงแก้ว</p>
-    <a href="https://www.instagram.com/_btqx_21/?__pwa=1">
+    <p>นฤภร วงศ์แก้ว</p>
+    <a href="https://www.instagram.com/_btqx_21/?__pwa=1" target="_blank">
         <img src="https://scontent.futp1-2.fna.fbcdn.net/v/t1.15752-9/494827794_2072533869906354_3242810038400550695_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=h8IJm3H9EMsQ7kNvwHZqnBq&_nc_oc=AdnZ63GTKdgPul36svOAqAHUsYGIpQxtidWxhApnzvqRmnrkoNW5lp8GavtT7SBwhJ9sCvmYJqfAUun3vCPer4Zh&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.futp1-2.fna&oh=03_Q7cD2AHFzWbcJypg2staTy00cZmEqE5I6_Vo1FDrcA89tZb2IA&oe=683ADE12" alt="mo"width="250" height="450">
     </a>
 </div>
-        <a href="https://www.instagram.com/_btqx_21/?__pwa=1">
-            <button>เปิดโปรไฟล์</button>
+        <a href="https://www.instagram.com/_btqx_21/?__pwa=1" target="_blank">
+            <button>โปรไฟล์ig</button>
+            <a href="https://www.facebook.com/sureeluk.wongkaew.2024" target="_blank">
+                <button>โปรไฟล์เฟสบุ๊ค</button>
+            </a>
         </a>
      </div>
 </body>
